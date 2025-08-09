@@ -1,0 +1,5 @@
+mov ax 15
+mov bx 12
+add ax bx
+add ax 7
+halt
